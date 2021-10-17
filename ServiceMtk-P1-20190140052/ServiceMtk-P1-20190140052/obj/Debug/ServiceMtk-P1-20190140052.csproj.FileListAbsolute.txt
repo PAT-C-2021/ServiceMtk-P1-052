@@ -1,0 +1,14 @@
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-20190140052\ServiceMtk-P1-20190140052\bin\Debug\ServiceMtk-P1-20190140052.dll.config
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-20190140052\ServiceMtk-P1-20190140052\bin\Debug\ServiceMtk-P1-20190140052.dll
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-20190140052\ServiceMtk-P1-20190140052\bin\Debug\ServiceMtk-P1-20190140052.pdb
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-20190140052\ServiceMtk-P1-20190140052\obj\Debug\ServiceMtk-P1-20190140052.csproj.CoreCompileInputs.cache
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-20190140052\ServiceMtk-P1-20190140052\obj\Debug\ServiceMtk-P1-20190140052.dll
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-20190140052\ServiceMtk-P1-20190140052\obj\Debug\ServiceMtk-P1-20190140052.pdb
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-052\ServiceMtk-P1-20190140052\bin\Debug\ServiceMtk-P1-20190140052.dll.config
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-052\ServiceMtk-P1-20190140052\bin\Debug\ServiceMtk-P1-20190140052.dll
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-052\ServiceMtk-P1-20190140052\bin\Debug\ServiceMtk-P1-20190140052.pdb
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-052\ServiceMtk-P1-20190140052\obj\Debug\ServiceMtk-P1-20190140052.csproj.AssemblyReference.cache
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-052\ServiceMtk-P1-20190140052\obj\Debug\ServiceMtk-P1-20190140052.csproj.CoreCompileInputs.cache
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-052\ServiceMtk-P1-20190140052\obj\Debug\ServiceMtk-P1-20190140052.dll
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-052\ServiceMtk-P1-20190140052\obj\Debug\ServiceMtk-P1-20190140052.pdb
+C:\PERKULIAHAN\semester 5\PAT\ServiceMtk-P1-20190140052\ServiceMtk-P1-20190140052\obj\Debug\ServiceMtk-P1-20190140052.csproj.AssemblyReference.cache
